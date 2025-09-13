@@ -1,3 +1,3 @@
-#print this sentence
-print ("My name is Anish")
-print ("Python is fun to learn")
+# Anish's first python program
+
+print ("Hello World", " This is Anish's first python program")
